@@ -1,0 +1,30 @@
+*{
+    margin:0;
+}
+#red{
+    color:red;
+}
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#h{
+    color:blue;
+    font-weight: lighter;
+}
+#u{
+    font-weight: lighter;
+}
+select{
+    width: 55%;
+    background-color:lightgray;
+    
+}
+#big{
+    width: 95%;
+    background-color:lightgray;
+}
+#bg{
+    width: 200px;
+    height: 60px;
+}
